@@ -7,13 +7,25 @@ Transurban is a road operator that manages and develops urban toll road networks
 
 ---
 
-###
+### Introduction
+During my internship at Transurban, I had the privilege of working with the End User Automation team, a team dedicated to support teams for all Transurban employees by finding automation opportunities to enhance operational efficiency across the organisation to ensure that they can focus on more difficult tasks at hand. 
 
-### 1) Improving Offboarding Process
+My primary task was to identify and analyse automation opportunities, particularly focusing on optimising workflows to reduce manual efforts and improve productivity. This report outlines the diagnostic analysis conducted on processes, including the offboarding process, mobile service form usability, Power Automate. This report highlights the methodologies and insights that informed my recommendations for improving efficiency and productivity. I will follow the steps of the data analysis process throughout the report: **ask, prepare, process, analyse, share, and act.**
 
-#### Introduction
 
-### Improve Usability for Mobile Service Form
+### 1) Enhancing the Offboarding Process
 
-### Topic Creation through Transurban's Chatbot for Automation
+#### Ask
+The primary objective of the project was to address inefficiencies in the mobile service offboarding process. The End User Automation team suspects that the company has been paying for unused mobile services, which had been causing delays and additional costs and they weren’t sure what was causing the issue during the steps in the ServiceNow application, a software that automate business processes to streamline workflows and improve operation. The Data & Analytics asks the team to analyse the user-device dependencies data in order to gain insight into how the workflow runs in the offboarding process.
+
+<ins>Key Questions to Consider</ins>:
+1. What are the major inefficiencies in the current mobile service offboarding process?
+2. How do user-device dependencies contribute to delays or errors?
+3. What improvements can be implemented to optimise the issue?
+
+#### Prepare
+
+
+
+
 
