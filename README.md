@@ -57,7 +57,7 @@ Based on the diagnostic analysis from the processed data, there are several poin
 
 **Deliverables**
 - Created a presentation that includes:
-  - Sharing findings wit the End User Automation team, including the breakdown of inefficiencies, the analysis process, and proposed solutions
+  - Sharing findings with the End User Automation team, including the breakdown of inefficiencies with examples, the analysis process, and proposed solutions
   - Delivering Tableau dashboards and provided actionable insights
 
 Now that the deliverables is prepared, a presentation was conducted to all the stakeholders to discuss about the possible solutions. We collaborated with the End User Enablement and Data & Analytics team to align recommendations with organisational goals. Received feedback on proposed changes, which were incorporated into the final workflow improvements.
