@@ -16,7 +16,7 @@ My primary task was to identify and analyse automation opportunities, particular
 ## 1) Enhancing the Offboarding Process
 
 ### Ask
-The primary objective of the project was to address inefficiencies in the mobile service offboarding process. The End User Automation team suspects that the company has been paying for unused mobile services, which had been causing delays, additional costs and they weren’t sure what was causing the issue during the steps in the ServiceNow application, a software that automate business processes to streamline workflows and improve operation. The Data & Analytics team asks the team to analyse the user-device dependencies data in order to gain insight into how the workflow runs in the offboarding process.
+The primary objective of the project was to address inefficiencies in the mobile service offboarding process. The End User Automation team suspects that the company has been paying for unused mobile services even though the employees have left the company already, which had been causing delays, and additional costs and they weren’t sure what was causing the issue during the workflow process in the ServiceNow application, a software that automate business processes to streamline workflows and improve operation. The Data & Analytics team asks the team to analyse the user-device dependencies data in order to gain insight into how the workflow runs in the offboarding process.
 
 <ins>Key Questions to Consider</ins>:
 1. What are the major inefficiencies in the current mobile service offboarding process?
